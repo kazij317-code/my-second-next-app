@@ -1,4 +1,6 @@
 @import "tailwindcss";
+/*41_(6) then in FoodCard.jsx file*/
+@plugin "daisyui";
 
 :root {
   --background: #ffffff;
