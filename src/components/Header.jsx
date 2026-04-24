@@ -8,7 +8,7 @@ const Header = () => {
     console.log('Header component')
     return (
         <div>
-            <h2 className='text-6xl'>My Awesome Header</h2>
+            <h2 className='text-6xl'>My Awesome Nabhan</h2>
         </div>
     );
 };
